@@ -1,7 +1,6 @@
 [![HitCount](http://hits.dwyl.io/Hypn-OS/Maternal-Assistance-App.svg)](http://hits.dwyl.io/Hypn-OS/Maternal-Assistance-App)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](/LICENSE) 
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-Hypnos-red)](https://github.com/Hypn-OS)
-![GitHub stars](https://github.com/Kaushl2208/Maternal-Assistance-App/stargazers)
  
                                         __  __                    
                                        |  \/  |   /\        /\    
